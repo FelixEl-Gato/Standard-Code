@@ -1,0 +1,6 @@
+# Ignore artifacts:
+build
+coverage
+vite
+vite-env.d.ts
+vite.config.ts
